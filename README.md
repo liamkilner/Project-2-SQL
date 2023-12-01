@@ -11,6 +11,7 @@ Our dataset contains information about COVID-19 in a worldwide perspective. We o
 
 # Question 1
 Create a heatmap of the count of COVID-19 cases across the world. What countries are poorest at controlling their COVID-19 death rate?
+
 Importance : 
 Countries that are deemed to be the poorest at controlling their COVID-19 death rate will require more support in responding to ongoing pandemic. Furthermore, these countries more than likely have issues combating other diseases as well so they would require more support and guidance from WHO. As the data is analyzed it will help other countries in fighting COVID-19 as well. It should be noted that there are some differences amongst countries such as access to health care and COVID-19 protocol that may make it difficult for countries to control their death rate in an efficient manner.
 
@@ -22,6 +23,7 @@ Our first graph is a heatmap of COVID-19 cases around the world. In that graph, 
 
 # Question 2
 What regions, according to the World Health Organization, have the highest recovery rate?
+
 Importance :  
 It is important to capture what regions have the highest recovery rate, so that other regions are able to model what measures they took to help their population recover from COVID-19 faster. This analysis is important to ensure a swift response is possible for similar future diseases that may arise. 
 
