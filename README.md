@@ -33,4 +33,4 @@ Our second graph is a waffle graph illustrating the recovery rates in various re
 We did not have to manipulate or alter any data.
 
 # Tableau Packaged Workbook:
-The packaged workbook containing the visualizations shown above is attached to this repository.
+The packaged workbook containing the visualizations shown above is attached to this repository here : country_wise_latest.csv
