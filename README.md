@@ -6,7 +6,7 @@
 2. Victoria Wiest https://github.com/victoriawiest/MIST4610Project2
 3. Emma Surbrook https://github.com/emmasurbrook/MISProject2
 4. Ashley Potts https://github.com/ashley-potts/MIST-4610-Project-2
-5. Hayden Soley
+5. Hayden Soley https://github.com/HaydenSoley/MIST-4610-Project-2
 
 
 # Description of the dataset:
