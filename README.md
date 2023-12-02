@@ -2,7 +2,7 @@
 
 # Team Members
 
-1. Liam Kilner 
+1. Liam Kilner https://github.com/liamkilner/Project-2-SQL/blob/main/README.md
 2. Victoria Wiest https://github.com/victoriawiest/MIST4610Project2
 3. Emma Surbrook https://github.com/emmasurbrook/MISProject2
 4. Ashley Potts https://github.com/ashley-potts/MIST-4610-Project-2
