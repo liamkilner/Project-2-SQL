@@ -2,9 +2,12 @@
 
 # Team Members
 
-Liam Kilner https://github.com/liamkilner/Project-2-SQL/edit/main/README.md
+1. Liam Kilner 
+2. Victoria Wiest https://github.com/victoriawiest/MIST4610Project2
+3. Emma Surbrook https://github.com/emmasurbrook/MISProject2
+4. Ashley Potts https://github.com/ashley-potts/MIST-4610-Project-2
+5. Hayden Soley
 
-Victoria Wiest https://github.com/victoriawiest/MIST4610Project2
 
 # Description of the dataset:
 Our dataset contains information about COVID-19 in a worldwide perspective. We obtained our dataset from: https://www.kaggle.com/datasets/imdevskp/corona-virus-report. This set contains a variety of dimensions with varying data types. It includes information such as Country and Region, which is a data type string. It also includes information such as Number of Confirmed Cases, Number of Deaths,  Number of Recoveries, Number of Active Cases, Number of New Cases, Number of New Deaths, and Number of New Recoveries. These are all part of the data type interval. Lastly, it includes Death Rate and Recovery Rate, included in the data type number(decimal). Overall, this dataset has a variation of different dimensions that help us understand the spread of COVID-19 across the world.
